@@ -7,6 +7,7 @@ import Update from './Components/Update';
 import Charts from './Components/Charts';
 
 // import './app.css';
+import './App.css';
 function App() {
   return (
     <div className="App">
